@@ -1,6 +1,6 @@
 # Master's Thesis: Causal AI in Marketing Measurement
 
-This repository contains the code and notebooks developed for my Master's thesis on **Causal Artificial Intelligence (Causal AI)** and its applications in marketing measurement, experimentation, and decision-making. The work applies causal inference tools like **DoWhy**, **EconML**, **Causica**, and **GCM** to real and simulated marketing data.
+This repository contains the code and notebooks developed for my Master's thesis on **Causal Artificial Intelligence (Causal AI)** and its applications in marketing measurement, experimentation, and decision-making. The work applies causal inference tools like **DoWhy**, **EconML**, **Causica**, and **GCM** to  simulated marketing data.
 
 ---
 
