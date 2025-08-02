@@ -40,11 +40,11 @@ This repository contains the code and notebooks developed for my Master's thesis
 
 - `DoWhy_GCM_RootCauseMasters_.ipynb`  
   *Purpose:* Explores root-cause attribution and anomaly explanation using DoWhy-GCM methods such as arrow strength, intrinsic contribution, and counterfactual change attribution.  
-  *Related Chapter:*  Chapter 7   
+  *Related Chapter:*  Chapter 7  Methodology and Results 2: Graphical Causal Models
 
 - `CausicaMasters (1).ipynb`  
   *Purpose:* Trains Microsoft's Causica model to learn latent causal structure and infer treatment effects using probabilistic graphical models.  
-  *Related Chapter:* Chapter 7  
+  *Related Chapter:* Chapter 7  Methodology and Results 2: Graphical Causal Models 
 
 ---
 
