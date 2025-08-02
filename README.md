@@ -31,7 +31,7 @@ This repository contains the code and notebooks developed for my Master's thesis
  
 
 - `SiMMMulator.R`  
-  *Purpose:* R script for generating synthetic marketing data (adstock, saturation, noise, etc.) with known causal structure using the `siMMMulator` package.  
+  *Purpose:* R script for generating synthetic marketing data (adstock, saturation, noise, etc.) with known causal structure using the `siMMMulator` package.   The actual dataset generated is also in the repo.
   *Related Chapter:*  Chapter 6: Methodology and Results 1: Conventional Statistics vs Causal Inference
 
 ---
