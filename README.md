@@ -6,7 +6,7 @@ This repository contains the code and notebooks developed for my Master's thesis
 
 ## Contents
 
-### 📊 Causal Graph & Assumptions
+### Causal Graph & Assumptions
 
 - `CausalGraphValidation.ipynb`  
   *Purpose:* Formalizes structural assumptions as Directed Acyclic Graphs (DAGs) and validates them using DoWhy and domain knowledge.  
@@ -18,7 +18,7 @@ This repository contains the code and notebooks developed for my Master's thesis
 
 ---
 
-### 🎯 Estimation & Simulation
+### Estimation & Simulation
 
 - `CausalAI_DoWhy_EconML_masters_.ipynb`  
   *Purpose:* Estimates Average Treatment Effects (ATE), Conditional ATE (CATE), and Individual Treatment Effects (ITE) using DoWhy + EconML meta-learners on linear and nonlinear datasets.  
